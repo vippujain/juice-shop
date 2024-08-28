@@ -1,3 +1,5 @@
+# trigger
+# this is to test for snyk
 name: Snyk Full Platform (CLI)
 
 # Prerequisites:
